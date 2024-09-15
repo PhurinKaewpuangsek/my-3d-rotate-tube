@@ -42,7 +42,7 @@ body {
   text-transform: uppercase;
   line-height: 0.76em;
   position: absolute;
-  color: #fff;
+  color: #000000;
   font-size: 3.5em;
   white-space: nowrap;
   font-weight: bold;
@@ -61,7 +61,7 @@ body {
 }
 
 .container .box span i:nth-child(2) {
-  color: #3e31f3;
+  color: #00ff40;
 }
 
 @keyframes animate {
